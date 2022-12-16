@@ -6,7 +6,7 @@ The topic of the project is the implementation of СRUD for MongoDB and Firebase
 Both databases have two collections. The first collection is a collection with recipes, the second collection is with products. The same models were made for both databases.
 
 # Main page
-<img src="https://user-images.githubusercontent.com/39212835/208155526-f829b662-53aa-4800-b2f2-55ae2aa4dc5d.jpg" width="200")>
+<img src="https://user-images.githubusercontent.com/39212835/208155526-f829b662-53aa-4800-b2f2-55ae2aa4dc5d.jpg" width="100")>
 
 # Firebase/MongoDB pages
 ![2](https://user-images.githubusercontent.com/39212835/208155585-9cbdd843-9215-46b3-8a88-a55136073db4.jpg)
