@@ -96,13 +96,13 @@ class _RecipesPageState extends State<RecipesPage> {
                     style: const TextStyle(fontSize: 36),
                   ),
                   Text(
-                    "Czas gotowania: ${recipe.cookTime.toString()} min",
+                    "Cook time: ${recipe.cookTime.toString()} min",
                     style: const TextStyle(fontSize: 18),
                   ),
                   Row(
                     children: [
                       const Text(
-                        "Trudność gotowania: ",
+                        "Complexity: ",
                         style: TextStyle(fontSize: 18),
                       ),
                       Row(
